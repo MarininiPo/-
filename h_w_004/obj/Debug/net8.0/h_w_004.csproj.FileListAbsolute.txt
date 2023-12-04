@@ -1,0 +1,15 @@
+C:\Users\Денис Кадыров\Desktop\Дом.Зад 3\h_w_004\bin\Debug\net8.0\h_w_004.exe
+C:\Users\Денис Кадыров\Desktop\Дом.Зад 3\h_w_004\bin\Debug\net8.0\h_w_004.deps.json
+C:\Users\Денис Кадыров\Desktop\Дом.Зад 3\h_w_004\bin\Debug\net8.0\h_w_004.runtimeconfig.json
+C:\Users\Денис Кадыров\Desktop\Дом.Зад 3\h_w_004\bin\Debug\net8.0\h_w_004.dll
+C:\Users\Денис Кадыров\Desktop\Дом.Зад 3\h_w_004\bin\Debug\net8.0\h_w_004.pdb
+C:\Users\Денис Кадыров\Desktop\Дом.Зад 3\h_w_004\obj\Debug\net8.0\h_w_004.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Денис Кадыров\Desktop\Дом.Зад 3\h_w_004\obj\Debug\net8.0\h_w_004.AssemblyInfoInputs.cache
+C:\Users\Денис Кадыров\Desktop\Дом.Зад 3\h_w_004\obj\Debug\net8.0\h_w_004.AssemblyInfo.cs
+C:\Users\Денис Кадыров\Desktop\Дом.Зад 3\h_w_004\obj\Debug\net8.0\h_w_004.csproj.CoreCompileInputs.cache
+C:\Users\Денис Кадыров\Desktop\Дом.Зад 3\h_w_004\obj\Debug\net8.0\h_w_004.sourcelink.json
+C:\Users\Денис Кадыров\Desktop\Дом.Зад 3\h_w_004\obj\Debug\net8.0\h_w_004.dll
+C:\Users\Денис Кадыров\Desktop\Дом.Зад 3\h_w_004\obj\Debug\net8.0\refint\h_w_004.dll
+C:\Users\Денис Кадыров\Desktop\Дом.Зад 3\h_w_004\obj\Debug\net8.0\h_w_004.pdb
+C:\Users\Денис Кадыров\Desktop\Дом.Зад 3\h_w_004\obj\Debug\net8.0\h_w_004.genruntimeconfig.cache
+C:\Users\Денис Кадыров\Desktop\Дом.Зад 3\h_w_004\obj\Debug\net8.0\ref\h_w_004.dll
