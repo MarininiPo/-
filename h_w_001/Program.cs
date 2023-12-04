@@ -2,9 +2,9 @@
 от 1 до 100. Найдите количество элементов массива,
 значения которых лежат в отрезке [20,90].*/
 
-namespace home_w_001
+namespace h_w_001
 {
-    public class home_w_001
+    public class h_w_001
     {
 
         public const int MIN = 1;
